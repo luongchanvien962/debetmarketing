@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+DEBET - Nhà cái hàng đầu với trải nghiệm cá cược đẳng cấp
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`DEBET <https://debet.marketing/>`_ là nhà cái hàng đầu Châu Âu, mang đến cho người chơi một thế giới cá cược trực tuyến chất lượng và chuyên nghiệp. Với cam kết xây dựng môi trường cá cược công bằng, minh bạch, DEBET cung cấp đa dạng các trò chơi hấp dẫn như thể thao, casino, và các trò chơi số như Keno. Hệ thống bảo mật tối tân đảm bảo an toàn cho thông tin của khách hàng, trong khi đội ngũ hỗ trợ khách hàng chuyên nghiệp luôn sẵn sàng phục vụ.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 75/6B ấp Xuân Thới Đông 3, Xuân Thới Đông, Hóc Môn, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0795086664. 
 
-Contents
---------
+Email: info@debet.marketing. 
 
-.. toctree::
+Website: https://debet.marketing/ 
 
-   usage
-   api
+#debet #nhacaidebet #trangchudebet #dangkydebet #linkdebet
